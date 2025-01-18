@@ -40,7 +40,7 @@ pip install pygame
 3. Run the game script with Python:
 
 ```bash
-python3 space_destructor.py
+python3 main.py
 ```
 
 ---
